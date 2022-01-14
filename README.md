@@ -1,7 +1,7 @@
 # School District Analysis
 
 ## Overview of the school district analysis: 
-Explain the purpose of this analysis.
+I've been working on analyzing math and reading testing scores for a school district where Maria works.  Now the school board has notified Maria the data we originaly used show evidence of academic dishonesty. I have been tasked with replacing the math and reading scores for 9th grade students at Thomas High School with NaNs while keeping the rest of the data intact, redoing all of my analysis on the school district data and describing how these changes affected the overall analysis.
 
 ## Results: 
 Using bulleted lists and images of DataFrames as support, address the following questions.
