@@ -32,13 +32,35 @@ By eliminating the 9th grade scores, THS's overall passing % took them from bein
   Changing the 9th grade THS scores only affected the scores for that school. This had no affect on the other grades or the other schools score so the integrity of the rest of the data was maintained. 
   
   - Scores by school spending
-  
+  Removing the data did not change THS's data for school spending so they were still in the $631-$645 bin. As with the District Summary, not using the THS 9th grade student count and scores did change the the average reading, math and overall scores and the average passing percentages for the $631-$645 bin. However, the change was so slight that when all of the numbers were rounded, the original and new results were exactly the same. See below:
+
+  Original Data:
+![Chart with original scores by school spending](https://github.com/ereekaj/School_District_Analysis/blob/main/Resources/schoolspendingdataold1.png)
+
+![Chart with original scores by school spending](https://github.com/ereekaj/School_District_Analysis/blob/main/Resources/schoolspendingdataold2.png)
+
+  New Data:
+![Chart with new scores by school spending](https://github.com/ereekaj/School_District_Analysis/blob/main/Resources/schoolspendingdatanew1.png)
+
+![Chart with new scores by school spending](https://github.com/ereekaj/School_District_Analysis/blob/main/Resources/schoolspendingdatanew2.png)
   
   - Scores by school size
+  Removing the 9th grade students from the THS total did not move them from the 'Medium (1000-2000)' school size bin.  Much like the Scores by School spending analysis, not using the THS 9th grade student count and scores did change the the average reading, math and overall scores and the average passing percentages for the 'Medium (1000-2000)' school size bin. Again, the change was so slight that when all of the numbers were rounded, the original and new results were exactly the same. See below:
   
+  Original Data:
+![Chart with old scores by school size](https://github.com/ereekaj/School_District_Analysis/blob/main/Resources/Schoolsizeold.png)
+
+  New Data:
+![Chart with new scores by school size](https://github.com/ereekaj/School_District_Analysis/blob/main/Resources/SchoolsizeNEW.png)
   
   - Scores by school type
+  Removing the 9th grade students from the THS total did not change the fact that THS is a Charter School. Again removing the data did slightly change the average reading, math and overall scores and the average passing percentages for the Charter schools but after rounding the results were exactly the same. See below: 
 
+  Original Data:
+![Chart with old scores by school type](https://github.com/ereekaj/School_District_Analysis/blob/main/Resources/typeOLD.png)
+
+  New Data:
+![Chart with new scores by school type](https://github.com/ereekaj/School_District_Analysis/blob/main/Resources/TypeNEW.png)
 
 ## Summary: 
 Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
