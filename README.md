@@ -8,10 +8,10 @@ I've been working on analyzing math and reading testing scores for a school dist
 The district summary used the overall student count to calculate the average scores and the average passing percentages for the district as a whole. When removing the 9th grade students grades, that lessened the student count by a little over 400 students which also adjusted the data calculations. This change was very slight and each passing percentage only changed about 1/10th of a percent which you can see below. 
 
 The original district summary is below:
-![Original district summary]()
+![Original district summary](https://github.com/ereekaj/School_District_Analysis/blob/main/Resources/DistrictSummaryOLD.png)
 
 The new district summary:
-![New district summary]()
+![New district summary](https://github.com/ereekaj/School_District_Analysis/blob/main/Resources/DistrictSummaryNEW.png)
 
 
 - How is the school summary affected?
